@@ -1,4 +1,4 @@
-https://travis-ci.org/mleone896/flowpush.svg?branch=master
+[![Build Status](https://travis-ci.org/mleone896/flowpush.svg?branch=master)](https://travis-ci.org/mleone896/flowpush)
 # flowpush
 A simple GoLang lib to push messages to a flow in flowdock
 
