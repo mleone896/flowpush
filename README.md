@@ -8,7 +8,7 @@ func main() {
 const(
 FlowdockAPIToken = <the flow you wish to push to>
 
-flowpush.PushMessageToFlowWithKey(FlowdockAPIToken, "it just worked", "ec2events")
+flowpush.PushMessageToFlowWithKey(FlowdockAPIToken, "message to push ", "user")
 
 ```
 
